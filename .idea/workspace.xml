@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bb9e2a3-f8d7-474e-99f1-ad74a664dfea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.claude/resources/2025-July-KindKart-Progress-Update.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.claude/resources/KindKart-pitch-v6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.claude/resources/board-update.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.claude/skills/find-skills" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biomarkers/2026-03-06/completed-lab-result-2026-03-06.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biomarkers/2026-03-06/lab-results-2026-03-06.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biomarkers/2026-03-06/optimal-ranges.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goals/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goals/health-goals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protocols/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protocols/march-april-2026-protocol.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/environment/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/environment/stainless-steel-pill-container-research.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/medications/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/nutrition/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/nutrition/undersink-water-filter-research.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/INDEX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/berberine-integrative/berberine-integrative.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/berberine-thorne/berberine-thorne.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/cortisol-calm/cortisol-calm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/cortisol-calm/screenshots/IMG_1660 Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/cortisol-calm/screenshots/IMG_1662 Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/creatine-thorne/creatine-thorne.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/creatine-thorne/screenshots/Screenshot 2026-02-02 at 8.34.59 AM Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/creatine-thorne/screenshots/Screenshot 2026-02-02 at 8.35.06 AM Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/omega-3-metagenics/omega-3-metagenics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/probiotic-naturelo/probiotic-naturelo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/whey-protein-itsjust/screenshots/Screenshot 2026-02-02 at 8.31.43 AM Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/whey-protein-itsjust/screenshots/Screenshot 2026-02-02 at 8.31.49 AM Large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../research/supplements/whey-protein-itsjust/whey-protein-itsjust.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srig-health/protocols/march-april-2026-protocol.md" beforeDir="false" afterPath="$PROJECT_DIR$/../srig-health/protocols/march-april-2026-protocol.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="125" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.25.0.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3BuR5TG7eCYcVz6pYSc56yHgKjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.analysis.ui.options.defaults&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/srig/Documents/kindkart/github/srig-playground/.claude/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.claude/resources" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-72a9cf600ed8-3105c3b11fe0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-261.22158.291" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-GO-261.22158.291" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bb9e2a3-f8d7-474e-99f1-ad74a664dfea" name="Changes" comment="" />
+      <created>1775336786557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775336786557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
