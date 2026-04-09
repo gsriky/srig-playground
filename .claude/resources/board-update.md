@@ -80,7 +80,7 @@ In just over two years:
 
 ---
 
-# 8. Evolution of Vision
+# 8. Evolution of Vision: The Transparency Infrastructure for Philanthropy
 
 Initially:
 - Focused on delivering essentials to grassroots organizations
@@ -89,21 +89,88 @@ Now evolving into:
 
 > **Transparency Infrastructure for Charitable Giving**
 
+KindKart serves multiple segments across the philanthropic ecosystem — each with a distinct problem and a clear value proposition:
+
+| Segment | Problem | Value Prop |
+|---|---|---|
+| **Donors, Foundations, Corporates** | Lack of transparency in impact and spending | Show exactly where your donation goes — and the impact your donation creates |
+| **Grassroot Organizations** | Predictable recurring expenses but no steady cashflow | Provide a minimum guaranteed support in kind for their predictable expenses |
+| **Traditional Non-Profits** | Operational inefficiency limiting impact and speed of execution | Provide the infrastructure for charitable operations (like ServiceNow for charitable operations) |
+| **Non-Profits Funded by CSR** | Inefficiency and manual reporting of impact | Power the transparency of corporate impact and eliminate manual reporting |
+| **Giving Channels** | Lost opportunity in communicating back with donors on their impact | Simplified integration to provide donors clear, transparent visibility into impact |
+
 ---
 
-# 9. Scholarship Management Platform (New Product)
+# 9. Functional Architecture: Layers of Social Giving
 
-We have launched a **Scholarship Management Platform** focused on the education sector.
+KindKart is building a layered platform — each layer adds reach, scale, and revenue while the core marketplace remains the foundation.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                         LAYER 4 — DONORS                                 │
+│                                                                          │
+│   Individual Donors   │   Corporates   │   Private Foundations   │       │
+│   Public Foundations                                                     │
+└──────────────────────────────────┬───────────────────────────────────────┘
+                                   │ donate via
+┌──────────────────────────────────▼───────────────────────────────────────┐
+│                     LAYER 3 — GIVING CHANNELS                            │
+│                                                                          │
+│   Give India   │   Global Giving   │   Aid India   │   Other Platforms   │
+│                                                                          │
+│   Aggregators that embed KindKart's transparency infrastructure          │
+└──────────────────────────────────┬───────────────────────────────────────┘
+                                   │ powered by
+┌──────────────────────────────────▼───────────────────────────────────────┐
+│                  LAYER 2 — PARTNER NON-PROFITS SaaS                      │
+│                                                                          │
+│   Operational efficiency platform for non-profits, organized by          │
+│   vertical:                                                              │
+│                                                                          │
+│   Education ✅ (live)   │   Women Empowerment   │   Health               │
+│   Skill & Vocational Training   │   Other Verticals                      │
+└──────────────────────────────────┬───────────────────────────────────────┘
+                                   │ built on
+┌──────────────────────────────────▼───────────────────────────────────────┐
+│               LAYER 1 — CORE KINDKART MARKETPLACE (Foundation)           │
+│                                                                          │
+│   Recurring, in-kind support for grassroots organizations'               │
+│   daily essential needs — groceries, utilities, salaries, supplies       │
+│                                                                          │
+│   82 organizations │ 15 states │ 36 cities │ $1M+ donation volume        │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+Each layer extends KindKart's reach while reinforcing the core value proposition: **radical transparency in every act of giving**.
 
 ---
 
-# 10. AI-Native Development Transformation
+# 10. Key Product Launches
+
+| Product | Audience | Status |
+|---|---|---|
+| **KindKart Marketplace** | Donors, Beneficiaries | Launched 2023 |
+| **Charity App 2.0** | Beneficiaries | Launched 2024 |
+| **KindKart Marketplace — India Donors** | Donors (India) | Launched 2024 |
+| **Scholarship Management Platform** | Partners | Launched 2025 |
+| **KindKash** | Donors | Launched 2025 |
+| **Transparency Report** | Donors | Launched 2025 |
+| **Learning Management Platform** | Partners | New — 2026 |
+| **Volunteer Management Platform** | Partners | New — 2026 |
+| **Student Mentoring Platform** | Partners | New — 2026 |
+| **Logistics Management Platform** | Internal | New — 2026 |
+| **Digital Delivery Verification** | Partners, Corporates | New — 2026 |
+| **AI Literacy** — AI curriculum for govt school teachers | Partners (Learning Management Platform) | New — 2026 |
+
+---
+
+# 11. AI-Native Development Transformation
 
 We are transitioning to an **AI-driven software development model**.
 
 ---
 
-# 11. Leadership Team
+# 12. Leadership Team
 
 - Ram Memuri – Head of Logistics & Fulfillment
 - Anshuman – Head of Product & Technology
@@ -112,7 +179,72 @@ We are transitioning to an **AI-driven software development model**.
 
 ---
 
-# 12. Closing Note
+# 13. 2026 OKRs — Where We Are Headed
+
+| # | Objective | Key Result | Target |
+|---|---|---|---|
+| 1 | **Scale Donation Volume** | Incremental Total Donation Volume | **$1.2M** (2x from 2025) |
+| 2 | **Grow Grassroots Network** | New organizations onboarded | **+50 orgs → 150 total** |
+| 3 | **Unlock Corporate Giving** | Corporate donation volume | **$500K** (10x from 2025) |
+| 4 | **Establish Compliance Standard** | Monthly audit of all grassroots orgs; define, measure & record compliance score | **100% of orgs audited monthly** |
+| 5 | **Launch Non-Profit SaaS (Education)** | Partner non-profits onboarded to SaaS platform | **25 partners → $100K revenue** |
+| 6 | **Improve Product Margins** | Optimize pricing/sourcing across top 10 products to improve overall effective margin | **25%** (from 24% today) |
+| 7 | **Operational Excellence — Fulfillment** | On-time delivery rate for donation orders | **95% delivered within 7 days** |
+
+---
+
+# 14. Legal & Compliance Update
+
+## Legal Counsel
+
+We have engaged **Oban and Mason**, a New Delhi-based legal firm, through a strong referral from **Priya Devaan**, Chief Legal Counsel at Akasa Air. Their mandate covers our full entity structure and IP strategy as we scale.
+
+## Four-Entity Structure
+
+```
+                    ┌─────────────────────────────────────────┐
+                    │      SINGAPORE HOLDING COMPANY          │
+                    │                                         │
+                    │  Holds KindKart IP, trademarks,         │
+                    │  and software assets                    │
+                    └──────────┬──────────────────────────────┘
+                               │ licenses IP to
+          ┌────────────────────┼────────────────────┐
+          ▼                                         ▼
+┌──────────────────────────┐          ┌──────────────────────────┐
+│  KINDKART INC (US)       │          │  INDIA PRIVATE LIMITED   │
+│  501(c)(3)               │          │                          │
+│                          │          │  SaaS reseller &         │
+│  US donor marketplace    │          │  distributor + logistics  │
+│  Fundraising & grants    │          │  operations              │
+└──────────┬───────────────┘          └──────────┬───────────────┘
+           │ funds                               │ licensing
+           ▼                                     │ revenue funds
+┌──────────────────────────┐                     │
+│  KINDKART INDIA          │◄────────────────────┘
+│  FOUNDATION              │
+│  Section 8 Company       │
+│                          │
+│  Charitable operations   │
+│  in India — grassroots   │
+│  org support & delivery  │
+└──────────────────────────┘
+```
+
+| Entity | Type | Role | Status |
+|---|---|---|---|
+| **Singapore HoldCo** | Holding Company | Owns IP, trademarks, software assets | *In execution* |
+| **KindKart Inc (US)** | 501(c)(3) | US donor marketplace, fundraising, grants | Established |
+| **India Private Limited** | Pvt Ltd | SaaS reseller/distributor, logistics operations | *In execution* |
+| **KindKart India Foundation** | Section 8 Company | Charitable operations in India, grassroots org support | Established |
+
+## Strategic Intent
+
+The licensing revenue generated by the India Pvt Ltd from selling SaaS to partner non-profits — combined with donations flowing through KindKart Inc (US) — funds the India Foundation's charitable operations. This creates a **self-reinforcing funding loop** where commercial scale directly amplifies charitable impact.
+
+---
+
+# 15. Closing Note
 
 We believe we have successfully crossed our **first horizon**.
 
